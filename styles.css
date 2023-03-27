@@ -19,6 +19,7 @@
    border-radius: 1rem;
    position: relative;
    margin-top: 1rem;
+   margin-bottom: 2rem;
  }
  .nav_label {
    position: absolute;
@@ -180,8 +181,8 @@
 
  .p-text {
    font-size: 1.8rem;
-   color: transparent;
-   visibility: hidden;
+   color: white;
+   
  }
  @media screen and (max-width: 700px) {
    .p-text {
